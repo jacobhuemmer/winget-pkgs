@@ -8,6 +8,7 @@ NestedInstallerFiles:
 Dependencies:
   PackageDependencies:
     - PackageIdentifier: Git.Git
+    - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
   - Architecture: x64
     InstallerUrl: https://github.com/jacobhuemmer/kata/releases/download/v0.1.1/kata-0.1.1-windows-x86_64.zip
