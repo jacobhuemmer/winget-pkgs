@@ -1,0 +1,17 @@
+PackageIdentifier: JacobHuemmer.Kata
+PackageVersion: 0.1.2
+InstallerType: zip
+NestedInstallerType: portable
+NestedInstallerFiles:
+  - RelativeFilePath: kata.exe
+    PortableCommandAlias: kata
+Dependencies:
+  PackageDependencies:
+    - PackageIdentifier: Git.Git
+    - PackageIdentifier: Microsoft.VCRedist.2015+.x64
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://github.com/jacobhuemmer/kata/releases/download/v0.1.2/kata-0.1.2-windows-x86_64.zip
+    InstallerSha256: "56F2A05CDAF0332AE7F956353CE9719A7D4F63E7B3A45DC0EC6C5DB6F7FEBF7B"
+ManifestType: installer
+ManifestVersion: 1.6.0
