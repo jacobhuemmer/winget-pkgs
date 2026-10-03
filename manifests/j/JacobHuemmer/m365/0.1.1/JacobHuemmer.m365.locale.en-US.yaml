@@ -4,12 +4,12 @@ PackageIdentifier: JacobHuemmer.m365
 PackageVersion: 0.1.1
 PackageLocale: en-US
 Publisher: Jacob Huemmer
-PublisherUrl: https://github.com/jacobhuemmer
-PublisherSupportUrl: https://github.com/jacobhuemmer/m365/issues
+PublisherUrl: https://github.com/masonhuemmer
+PublisherSupportUrl: https://github.com/masonhuemmer/m365/issues
 PackageName: m365
-PackageUrl: https://github.com/jacobhuemmer/m365
+PackageUrl: https://github.com/masonhuemmer/m365
 License: MIT
-LicenseUrl: https://github.com/jacobhuemmer/m365/blob/HEAD/LICENSE
+LicenseUrl: https://github.com/masonhuemmer/m365/blob/HEAD/LICENSE
 ShortDescription: Microsoft 365 CLI for one signed-in user
 Tags:
 - cli
@@ -17,6 +17,6 @@ Tags:
 - microsoft-365
 - outlook
 - teams
-ReleaseNotesUrl: https://github.com/jacobhuemmer/m365/releases/tag/v0.1.1
+ReleaseNotesUrl: https://github.com/masonhuemmer/m365/releases/tag/v0.1.1
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
