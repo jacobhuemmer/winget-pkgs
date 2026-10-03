@@ -6,11 +6,11 @@ PackageVersion: 0.13.1
 PackageLocale: en-US
 Publisher: RunDops
 PublisherUrl: https://github.com/rundops
-PublisherSupportUrl: https://github.com/rundops/dops/issues
+PublisherSupportUrl: https://github.com/masonhuemmer/dops/issues
 PackageName: dops
-PackageUrl: https://github.com/rundops/dops
+PackageUrl: https://github.com/masonhuemmer/dops
 License: MIT
-LicenseUrl: https://github.com/rundops/dops/blob/HEAD/LICENSE
+LicenseUrl: https://github.com/masonhuemmer/dops/blob/HEAD/LICENSE
 ShortDescription: Developer Operations TUI — browse, parameterize, and execute runbooks from the terminal
 Description: |-
   dops is a terminal UI and web UI for browsing, parameterizing, and executing operational runbooks.
@@ -26,6 +26,6 @@ Tags:
 ReleaseNotes: |-
   Changelog
   - 795d2d2 Tighten history file permissions and harden loadRecord
-ReleaseNotesUrl: https://github.com/rundops/dops/releases/tag/v0.13.1
+ReleaseNotesUrl: https://github.com/masonhuemmer/dops/releases/tag/v0.13.1
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
