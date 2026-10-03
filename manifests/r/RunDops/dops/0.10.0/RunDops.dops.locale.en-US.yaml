@@ -5,7 +5,7 @@ PackageIdentifier: RunDops.dops
 PackageVersion: 0.10.0
 PackageLocale: en-US
 Publisher: RunDops
-PublisherUrl: https://github.com/rundops
+PublisherUrl: https://github.com/masonhuemmer
 PackageName: dops
 PackageUrl: https://github.com/masonhuemmer/dops
 License: MIT
